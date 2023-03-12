@@ -49,13 +49,9 @@ Scroll down and and click on **Enable**
 [http://schemas.xmlsoap.org/ws/2005/05/identity/claims/emailaddress] 
 
 
-
-![](./9.optional.png)
-
 <kbd> <img src="https://github.com/iamjjchang/Auth0-SAML-Cloudflare-Zerotrust/blob/master/9.optional.png" /> </kbd>
 
-5. Once done click on test, you can see this result below
+1. Once done click on test, you can see this result below
 
 <kbd> <img src="https://github.com/iamjjchang/Auth0-SAML-Cloudflare-Zerotrust/raw/master/10.works.png" /> </kbd>
 
-![](./10.works.png)
