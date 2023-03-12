@@ -44,15 +44,16 @@ Scroll down and and click on **Enable**
 
 ![](./8.addsaml.png)
 
-1. In Email attribute name, fill in this 👇
+4. In Email attribute name, fill in this 👇
     
-    [http://schemas.xmlsoap.org/ws/2005/05/identity/claims/emailaddress] \ 
-    (http://schemas.xmlsoap.org/ws/2005/05/identity/claims/emailaddress)
+[http://schemas.xmlsoap.org/ws/2005/05/identity/claims/emailaddress] 
+
 
 
 ![](./9.optional.png)
 
-Once done click on test, you can see this result below
+5. Once done click on test, you can see this result below
 
+<kbd> <img src="https://github.com/iamjjchang/Auth0-SAML-Cloudflare-Zerotrust/raw/master/10.works.png" /> </kbd>
 
 ![](./10.works.png)
